@@ -1,6 +1,6 @@
 # Sales Analytics Dashboard
 
-![Dashboard Preview](sales_analytics_dashboard.pdf)
+![Dashboard Preview](sales_analytics_dashboard.png)
 
 ## Project Overview
 
